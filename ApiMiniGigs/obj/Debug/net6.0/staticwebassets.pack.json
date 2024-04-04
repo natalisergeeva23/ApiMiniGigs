@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\wwwroot\\uploads\\083fcaac-57a4-4cac-b61e-b20dca01496c.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\083fcaac-57a4-4cac-b61e-b20dca01496c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\wwwroot\\uploads\\3ae1119a-962c-4ec1-9e19-68166edd66b7.pdf",
+      "PackagePath": "staticwebassets\\uploads\\3ae1119a-962c-4ec1-9e19-68166edd66b7.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\wwwroot\\uploads\\44e0dda9-7329-4985-bcaa-ec584e889edd.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\44e0dda9-7329-4985-bcaa-ec584e889edd.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\wwwroot\\uploads\\6ba5eeaa-d3aa-49ee-a98b-43313ad5a58d.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\6ba5eeaa-d3aa-49ee-a98b-43313ad5a58d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\wwwroot\\uploads\\7c620048-0de6-4527-a78d-d78db8050d6c.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\7c620048-0de6-4527-a78d-d78db8050d6c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\wwwroot\\uploads\\8b435ea6-2763-4852-ad82-efe7ca236436.pdf",
+      "PackagePath": "staticwebassets\\uploads\\8b435ea6-2763-4852-ad82-efe7ca236436.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\wwwroot\\uploads\\9da3ff26-6517-401b-b854-536129c2fc18.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\9da3ff26-6517-401b-b854-536129c2fc18.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\wwwroot\\uploads\\a3cf3248-7bd7-4c76-8c7e-b525204dafbd.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\a3cf3248-7bd7-4c76-8c7e-b525204dafbd.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\wwwroot\\uploads\\a82925d0-1b7d-4a20-9da2-fbfb8655ceed.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\a82925d0-1b7d-4a20-9da2-fbfb8655ceed.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\wwwroot\\uploads\\b3509967-0cfc-493e-969e-702c14f10251.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\b3509967-0cfc-493e-969e-702c14f10251.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\wwwroot\\uploads\\eb6b52f7-0bb9-4f22-a6a3-dac1b0ce23f5.pdf",
+      "PackagePath": "staticwebassets\\uploads\\eb6b52f7-0bb9-4f22-a6a3-dac1b0ce23f5.pdf"
+    },
+    {
+      "Id": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\wwwroot\\uploads\\f1bd0fbe-224b-459e-a2a7-5e9e74c1b13c.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\f1bd0fbe-224b-459e-a2a7-5e9e74c1b13c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\wwwroot\\uploads\\f9281e73-b403-4603-8289-df3a89a62252.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\f9281e73-b403-4603-8289-df3a89a62252.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\wwwroot\\uploads\\fec9740e-8288-40e6-86dd-e8a091fbca84.pdf",
+      "PackagePath": "staticwebassets\\uploads\\fec9740e-8288-40e6-86dd-e8a091fbca84.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ApiMiniGigs.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ApiMiniGigs.props",
+      "PackagePath": "build\\ApiMiniGigs.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ApiMiniGigs.props",
+      "PackagePath": "buildMultiTargeting\\ApiMiniGigs.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ApiMiniGigs.props",
+      "PackagePath": "buildTransitive\\ApiMiniGigs.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

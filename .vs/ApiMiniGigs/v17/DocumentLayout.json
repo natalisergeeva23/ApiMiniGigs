@@ -1,0 +1,779 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\controllers\\myworkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\controllers\\myworkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\controllers\\balancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\controllers\\balancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\models\\minigigsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\models\\minigigsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\controllers\\workcompletionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\controllers\\workcompletionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\models\\mywork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\models\\mywork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\models\\workcompletion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\models\\workcompletion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\models\\userlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\models\\userlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\models\\historypayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\models\\historypayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\controllers\\progressuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\controllers\\progressuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\models\\progressuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\models\\progressuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\models\\operationhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\models\\operationhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\controllers\\historypaymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\controllers\\historypaymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\controllers\\tariffscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\controllers\\tariffscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\models\\tariff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\models\\tariff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\models\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\models\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\models\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\models\\supportmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\models\\supportmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\models\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\models\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\models\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\models\\ordertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\models\\ordertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\models\\finishedtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\models\\finishedtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\controllers\\userlevelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\controllers\\userlevelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\controllers\\supportmessagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\controllers\\supportmessagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\controllers\\ratingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\controllers\\ratingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\controllers\\profilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\controllers\\profilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\controllers\\platformscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\controllers\\ordertypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\controllers\\ordertypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\controllers\\orderstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\controllers\\orderstatuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\controllers\\operationhistoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\controllers\\operationhistoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|c:\\users\\ditex\\downloads\\apiminigigs\\apiminigigs\\controllers\\finishedtaskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B93A229-314F-43E5-A429-0A49F20A6A27}|ApiMiniGigs\\ApiMiniGigs.csproj|solutionrelative:apiminigigs\\controllers\\finishedtaskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\nlog.config",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\nlog.config",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\nlog.config",
+              "RelativeToolTip": "ApiMiniGigs\\nlog.config",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwDwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-04T15:08:03.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\nlog.config",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\nlog.config",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\nlog.config",
+              "RelativeToolTip": "ApiMiniGigs\\nlog.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-04T15:06:56.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyWorksController.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\MyWorksController.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Controllers\\MyWorksController.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\MyWorksController.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Controllers\\MyWorksController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:27.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAIBJwHgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:27.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiMiniGigs\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T22:46:27.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\JwtTokenService.cs",
+              "RelativeToolTip": "ApiMiniGigs\\JwtTokenService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA6wBcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:27.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Program.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Program.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Program.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:27.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\appsettings.json",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\appsettings.json",
+              "RelativeToolTip": "ApiMiniGigs\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T22:46:28.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\appsettings.Development.json",
+              "RelativeToolTip": "ApiMiniGigs\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T22:46:27.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProgressUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\ProgressUsersController.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Controllers\\ProgressUsersController.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\ProgressUsersController.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Controllers\\ProgressUsersController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwGYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:27.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HistoryPayment.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\HistoryPayment.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Models\\HistoryPayment.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\HistoryPayment.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Models\\HistoryPayment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:27.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BalancesController.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\BalancesController.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Controllers\\BalancesController.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\BalancesController.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Controllers\\BalancesController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:28.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\Order.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:27.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\User.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:27.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MiniGigsDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\MiniGigsDBContext.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Models\\MiniGigsDBContext.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\MiniGigsDBContext.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Models\\MiniGigsDBContext.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAQwMgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:27.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WorkCompletionsController.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\WorkCompletionsController.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Controllers\\WorkCompletionsController.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\WorkCompletionsController.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Controllers\\WorkCompletionsController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAIBJwHMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:27.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MyWork.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\MyWork.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Models\\MyWork.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\MyWork.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Models\\MyWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:27.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WorkCompletion.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\WorkCompletion.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Models\\WorkCompletion.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\WorkCompletion.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Models\\WorkCompletion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:27.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:27.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserLevel.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\UserLevel.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Models\\UserLevel.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\UserLevel.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Models\\UserLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:27.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Models\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\OrderStatus.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Models\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:27.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProgressUser.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\ProgressUser.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Models\\ProgressUser.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\ProgressUser.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Models\\ProgressUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:27.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OperationHistory.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\OperationHistory.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Models\\OperationHistory.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\OperationHistory.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Models\\OperationHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:27.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HistoryPaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\HistoryPaymentsController.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Controllers\\HistoryPaymentsController.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\HistoryPaymentsController.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Controllers\\HistoryPaymentsController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:27.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\Setting.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Models\\Setting.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\Setting.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Models\\Setting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:27.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TariffsController.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\TariffsController.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Controllers\\TariffsController.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\TariffsController.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Controllers\\TariffsController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:27.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Tariff.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\Tariff.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Models\\Tariff.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\Tariff.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Models\\Tariff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:27.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Balance.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\Balance.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Models\\Balance.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\Balance.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Models\\Balance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:27.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrderType.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\OrderType.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Models\\OrderType.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\OrderType.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Models\\OrderType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:27.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Platform.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\Platform.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Models\\Platform.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\Platform.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Models\\Platform.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:27.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\Profile.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Models\\Profile.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\Profile.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Models\\Profile.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:27.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\Rating.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Models\\Rating.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\Rating.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Models\\Rating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:28.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\Role.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:28.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SupportMessage.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\SupportMessage.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Models\\SupportMessage.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\SupportMessage.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Models\\SupportMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:28.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FinishedTask.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\FinishedTask.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Models\\FinishedTask.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\FinishedTask.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Models\\FinishedTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:28.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Models\\LoginModel.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:28.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserLevelsController.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\UserLevelsController.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Controllers\\UserLevelsController.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\UserLevelsController.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Controllers\\UserLevelsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:28.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SupportMessagesController.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\SupportMessagesController.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Controllers\\SupportMessagesController.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\SupportMessagesController.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Controllers\\SupportMessagesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:28.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SettingsController.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\SettingsController.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Controllers\\SettingsController.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\SettingsController.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Controllers\\SettingsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:28.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Controllers\\RolesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:28.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RatingsController.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\RatingsController.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Controllers\\RatingsController.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\RatingsController.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Controllers\\RatingsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:28.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProfilesController.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\ProfilesController.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Controllers\\ProfilesController.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\ProfilesController.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Controllers\\ProfilesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:28.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PlatformsController.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\PlatformsController.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Controllers\\PlatformsController.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\PlatformsController.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Controllers\\PlatformsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:28.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OrderTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\OrderTypesController.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Controllers\\OrderTypesController.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\OrderTypesController.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Controllers\\OrderTypesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:28.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OrderStatusController.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\OrderStatusController.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Controllers\\OrderStatusController.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\OrderStatusController.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Controllers\\OrderStatusController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:28.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "OperationHistoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\OperationHistoriesController.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Controllers\\OperationHistoriesController.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\OperationHistoriesController.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Controllers\\OperationHistoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:28.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FinishedTasksController.cs",
+              "DocumentMoniker": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\FinishedTasksController.cs",
+              "RelativeDocumentMoniker": "ApiMiniGigs\\Controllers\\FinishedTasksController.cs",
+              "ToolTip": "C:\\Users\\ditex\\Downloads\\ApiMiniGigs\\ApiMiniGigs\\Controllers\\FinishedTasksController.cs",
+              "RelativeToolTip": "ApiMiniGigs\\Controllers\\FinishedTasksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T22:46:28.05Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
